@@ -1,0 +1,1 @@
+# lipas_raportti.geojson
